@@ -1,0 +1,1 @@
+<?php exit;?>{"list_type":"icon","list_sort_field":"name","list_sort_order":"up","theme":"win10","codetheme":"clouds","wall":"7","musictheme":"mp3player","movietheme":"webplayer","file_repeat":"replace","recycle_open":"0","resize_config":"{\"filename\":250,\"filetype\":80,\"filesize\":80,\"filetime\":215,\"editor_left_tree_width\":200,\"explorer_left_tree_width\":200}"}
